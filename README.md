@@ -10,4 +10,4 @@
  # Algorithms of Machine learning and their corresponding Accuracy
  * Linear regression with accuracy 91.71%.
  * Decision Tree with accuracy 98.22%
- * Randeom Forest with accuracy 98.85%
+ * Random Forest with accuracy 98.85%
